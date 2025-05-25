@@ -1,0 +1,1 @@
+{"importBase":"import","nativeBase":"native","name":"CardGameTiles","deps":["main"],"uuids":["a6xQ1t9rRLYYr5lUNMmbdn"],"paths":{"0":["Prefab/SelcetCurrencyPopup",0]},"scenes":{},"packs":{},"versions":{"import":[],"native":[]},"redirect":[0,"0"],"debug":false,"extensionMap":{},"hasPreloadScript":true,"dependencyRelationships":{},"types":["cc.Prefab"]}
